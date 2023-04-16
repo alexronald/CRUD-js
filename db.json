@@ -1,9 +1,24 @@
 {
   "perfil": [
     {
-      "nombre": "Christian",
+      "nombre": "alex",
       "email": "Christian@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "lex",
+      "email": "alex@gmil.com",
+      "id": "7c4bf334-913e-4133-82dd-f76bc2a78b31"
+    },
+    {
+      "nombre": "juan",
+      "email": "alx@gmil.com",
+      "id": "3bed790a-504c-48c4-97bf-cf8f50007d21"
+    },
+    {
+      "nombre": "juan",
+      "email": "alex@gmil.com",
+      "id": "8f1f0171-1fd3-425a-8fe8-934d38a7be24"
     }
   ]
 }
